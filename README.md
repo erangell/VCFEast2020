@@ -19,6 +19,12 @@ A Windows 10 laptop running this demo is exhibited.  Visitors can explore the fl
 
 * Ted Nelson's ZigZag Demo: https://www.youtube.com/watch?v=n22A-Say7do
 This demo runs on Mac or Windows using Java.  ZigZag is the generalization of a spreadsheet to multiple orthogonal (right-angle) dimensions.
+ 
+* New Game In Town: https://www.youtube.com/watch?v=72M5kcnAL-4
+This video shows how an Edit-Decision-List document (which is an external file containing spans of content to display - unlike embedded markup) is used to display and link content from source documents.  It also demonstrates Transcopyright, which is Ted's idea of using micropayments for users to purchase segments of copyrighted content.
+
+* Xanadu "Pale Fire" Demo: http://perma.pub/alpha/edward/openZRe7/fulfil
+This is a demo of what are now coined "Ted Nelson Documents", which implement some features of Xanadu.  It shows how you can see related material from source documents (known as Transclusions) in their original context.
 
 * Ted's Homepage: http://thetednelson.com/
 
