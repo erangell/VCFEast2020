@@ -1,4 +1,4 @@
-# Ted Nelson's Vision: Resources for *Ted Nelson's Vision* exhibit at VCF East 2020, Wall NJ
+# Resources for *Ted Nelson's Vision* exhibit at VCF East 2020, Wall NJ
 Note: All links in this document can be accessed from: https://github.com/erangell/VCFEast2020
 
 The exhibit "Ted Nelson's Vision" is meant to encourage visitors to look at the concepts that Ted Nelson designed starting in the 1960's and compare them to hypertext technologies that were actually implemented in the 1990s and what we currently use today.  In the exhibit, the following are demonstrated:
