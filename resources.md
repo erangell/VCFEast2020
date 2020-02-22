@@ -16,5 +16,7 @@
 
 * Andrew Pam's research: http://www.xanadu.com.au/ 
 
+* Xanadu resources: http://xanadu.com
+
 * ZigZag resources: http://xanadu.com/zigzag/
 

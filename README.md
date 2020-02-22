@@ -20,10 +20,12 @@ A Windows 10 laptop running this demo is exhibited.  Visitors can explore the fl
 * Ted Nelson's ZigZag Demo: https://www.youtube.com/watch?v=n22A-Say7do
 This demo runs on Mac or Windows using Java.  ZigZag is the generalization of a spreadsheet to multiple orthogonal (right-angle) dimensions.
 
-Ted's Youtube channel: https://www.youtube.com/user/TheTedNelson
+* Ted's Homepage: http://thetednelson.com/
+
+* Ted's Youtube channel: https://www.youtube.com/user/TheTedNelson
+
+* Videos related to this exhibit: https://www.youtube.com/watch?v=_4TIqpwRhlk&list=PLOW4_Hp8_913P0JEQwcIohoXkzbw9ITXa
 
 Books and publications by Ted can be ordered from: https://www.lulu.com/shop/search.ep?keyWords=ted+nelson
 
-Videos related to this exhibit: https://www.youtube.com/watch?v=_4TIqpwRhlk&list=PLOW4_Hp8_913P0JEQwcIohoXkzbw9ITXa
-
-Additional resources for further research: https://github.com/erangell/resources.md
+Additional resources for further research: https://github.com/erangell/VCFEast2020/blob/master/resources.md
