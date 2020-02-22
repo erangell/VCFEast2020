@@ -1,6 +1,6 @@
 # Resources for *Ted Nelson's Vision* exhibit
-March 28, 2020: Kennett Square, PA: https://www.meetup.com/Kennett-Classic/events/267632933/
-April 25, 2020: Wall, NJ: http://vcfed.org/wp/festivals/vintage-computer-festival-east/
+* March 28, 2020: Kennett Square, PA: https://www.meetup.com/Kennett-Classic/events/267632933/
+* April 25, 2020: Wall, NJ: http://vcfed.org/wp/festivals/vintage-computer-festival-east/
 
 Note: All links in this document can be accessed from: https://github.com/erangell/VCFEast2020
 
@@ -23,5 +23,7 @@ This demo runs on Mac or Windows using Java.  ZigZag is the generalization of a 
 Ted's Youtube channel: https://www.youtube.com/user/TheTedNelson
 
 Books and publications by Ted can be ordered from: https://www.lulu.com/shop/search.ep?keyWords=ted+nelson
+
+Videos related to this exhibit: https://www.youtube.com/watch?v=_4TIqpwRhlk&list=PLOW4_Hp8_913P0JEQwcIohoXkzbw9ITXa
 
 Additional resources for further research: https://github.com/erangell/resources.md
