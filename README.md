@@ -20,6 +20,8 @@ A Windows 10 laptop running this demo is exhibited.  Visitors can explore the fl
 * Ted Nelson's ZigZag Demo: https://www.youtube.com/watch?v=n22A-Say7do
 This demo runs on Mac or Windows using Java.  ZigZag is the generalization of a spreadsheet to multiple orthogonal (right-angle) dimensions.
  
+* Example of thinking and desigining a solution using ZigZag dimensions: https://github.com/erangell/VCFEast2020/blob/master/ZigZagExample.pdf
+ 
 * New Game In Town: https://www.youtube.com/watch?v=72M5kcnAL-4
 This video shows how an Edit-Decision-List document (which is an external file containing spans of content to display - unlike embedded markup) is used to display and link content from source documents.  It also demonstrates Transcopyright, which is Ted's idea of using micropayments for users to purchase segments of copyrighted content.
 
