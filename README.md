@@ -1,8 +1,8 @@
 # Resources for *Ted Nelson's Vision* exhibit
-* March 28, 2020: Kennett Square, PA: https://www.meetup.com/Kennett-Classic/events/267632933/
-* April 25, 2020: Wall, NJ: http://vcfed.org/wp/festivals/vintage-computer-festival-east/
 
 Note: All links in this document can be accessed from: https://github.com/erangell/VCFEast2020
+
+Photos of exhibit are in ExhibitPhotos directory.
 
 The exhibit "Ted Nelson's Vision" is meant to encourage visitors to look at the concepts that Ted Nelson designed starting in the 1960's and compare them to hypertext technologies that were actually implemented in the 1990s and what we currently use today.  In the exhibit, the following are demonstrated:
 
