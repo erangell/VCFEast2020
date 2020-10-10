@@ -36,6 +36,6 @@ This is a demo of what are now coined "Ted Nelson Documents", which implement so
 
 * The exhibit is powered by Roger Wagner's Hyperduino with MP3 add-on: https://hyperduino.com/mp3player.html and  https://hyperduino.com/
 
-Books and publications by Ted can be ordered from: https://www.lulu.com/shop/search.ep?keyWords=ted+nelson
+Books and publications by Ted can be ordered from: https://www.lulu.com/search?adult_audience_rating=00&keyWords=ted+nelson&page=1&pageSize=10&q=ted+nelson
 
 Additional resources for further research: https://github.com/erangell/VCFEast2020/blob/master/resources.md
