@@ -38,4 +38,8 @@ This is a demo of what are now coined "Ted Nelson Documents", which implement so
 
 Books and publications by Ted can be ordered from: https://www.lulu.com/search?adult_audience_rating=00&keyWords=ted+nelson&page=1&pageSize=10&q=ted+nelson
 
+Another link for Ted's books: http://thetednelson.com/publications.php
+
+For collectors or people who want limited edition versions of Ted's items: https://nelswag.com/
+
 Additional resources for further research: https://github.com/erangell/VCFEast2020/blob/master/resources.md
