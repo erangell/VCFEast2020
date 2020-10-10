@@ -25,6 +25,8 @@ https://www.youtube.com/watch?v=9_o8q4Sp-w0
 
 * Sunless Sea: The Xanadu Cyberarcheology Project: https://web.archive.org/web/20021108205225/http://www.sunless-sea.net/wiki/FrontPage
 
+* Archived videos from the Sunless Sea website: https://archive.org/details/ConvertedVideosFromSunlessSea
+
 * Enfilade Theory: https://web.archive.org/web/20041217112415/http://www.sunless-sea.net/wiki/EnfiladeTheory
 
 * Xanadu Green system architecture: https://web.archive.org/web/20050112131824/http://www.sunless-sea.net/wiki/GreenSysArch
